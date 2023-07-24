@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Sejal Kalambhe</h2>
-<h4 align="center">🔭 I’m currently in my Final year, pursuing majors in Electronics and Telecommunication from Cummins College, Nagpur</h4>
+<h5 align="center">🔭 I’m currently in my Final year, pursuing majors in Electronics and Telecommunication from Cummins College, Nagpur</h5>
 <!-- <h4 align="center">🌱 I’m currently learning ReactJs</h4> -->
-<h4 align="center">👯 I’m looking to collaborate on Open Source Projects</h4>
-<h4 align="center">💬 Ask me about Java, C, SQL, HTML, CSS, ReactJs & Bootstrap</h4>
-<h4 align="center">Please feel free to clone/fork projects, raise issues and submit PRs if you think it can be optimized.</h4>
-<h4 align="center">Happy Coding! 😄</h4>
-<h4 align="center">Show some ❤️!</h4>
+<h5 align="center">👯 I’m looking to collaborate on Open Source Projects</h5>
+<h5 align="center">💬 Ask me about Java, C, SQL, HTML, CSS, ReactJs & Bootstrap</h5>
+<h5 align="center">Please feel free to clone/fork projects, raise issues and submit PRs if you think it can be optimized.</h5>
+<h5 align="center">Happy Coding! 😄</h5>
+<h5 align="center">Show some ❤️!</h5>
 <!--
 **sejalk123/sejalk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
