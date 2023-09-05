@@ -4,7 +4,7 @@
 <h5 align="center">👯 I’m looking to collaborate on Open Source Projects</h5>
 <h5 align="center">💬 Ask me about Java, C, SQL, HTML, CSS, ReactJs & Bootstrap</h5>
 <h5 align="center">Please feel free to clone/fork projects, raise issues and submit PRs if you think it can be optimized.</h5>
-<i align="center">Happy Coding! 😄</i>
+<h5 align="center">Happy Coding! 😄</h5>
 <h5 align="center">Show some ❤️!</h5>
 <!--
 **sejalk123/sejalk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
